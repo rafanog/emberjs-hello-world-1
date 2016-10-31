@@ -1,7 +1,6 @@
-# Q
+# Ember "Hello World"
 
-This README outlines the details of collaborating on this Ember application.
-A short introduction of this app could easily go here.
+This is a simple example of the use of Ember.js V1 for test purpouses
 
 ## Prerequisites
 
